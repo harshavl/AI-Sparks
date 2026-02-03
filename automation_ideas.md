@@ -56,6 +56,7 @@ Pilot the system on a small subnet, gather metrics on automation efficiency, and
 
 Automation/Innovation Idea 2: Automated Security Policy Enforcement and Compliance Auditing
 
+
 Description
 Leverage AlgoSec for policy management, integrate with monitoring tools (Splunk, Kentik, LogicMonitor) for threat detection, and use access control platforms (Cisco ISE, ClearPass) to automate enforcement. ServiceNow handles compliance reporting, Nautobot provides device context, and vendor tools (Cisco DNA, Junos Space, cnMaestro, Lighthouse) ensure multi-vendor config consistency. Innovation: AI from Kentik predicts policy violations, enabling proactive audits.
 
